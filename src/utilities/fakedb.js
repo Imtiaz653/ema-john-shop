@@ -21,7 +21,7 @@ const removeFromDb = id => {
     }
 }
 
-const getShoppingCart = () => {
+const  getShoppingCart = () => {
     let shoppingCart = {};
 
     //get the shopping cart from local storage
